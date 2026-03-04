@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    --hover-backgroun-color: #ffecec;
+}
+
+.section{
+    padding: 20px;
+    border-bottom: 1px solid #eee;
+}
+.section:last-child{
+    border: none;
+}
+
+.common-btn{
+    border: none;
+    background: none;
+    color: #4361ee;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.section-title{
+    font-size: 18px;
+    font-weight: 600;
+    color: #222;
+}
+
+.del-btn{
+    color: #e74c3c;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+.del-btn:hover{
+    background: var(--hover-backgroun-color);
+}
+
+.confirm-btn {
+    color: #fff;
+    background: #4361ee;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 5px 10px 5px 10px;
+    transition: background 0.2s;
+}
+.confirm-btn:hover{
+    background: #3a56d4;
+}
