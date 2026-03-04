@@ -21,7 +21,7 @@ Easy Share 是一个现代化、高性能的局域网文件共享应用程序。
 
 ## 截图
 
-<img src="doc\app-screenshot1.png" style="zoom:30%;" />
+<img src="doc\app-screenshot1.png" style="zoom:20%;" />
 
 
 ## ✨ 特性
